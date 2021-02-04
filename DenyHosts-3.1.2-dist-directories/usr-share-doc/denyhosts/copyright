@@ -1,0 +1,25 @@
+This package was debianized by the alien program by converting
+a binary .rpm package on Fri, 08 May 2020 10:40:50 -0400
+
+Copyright: GPL v2
+
+Information from the binary package:
+Name        : DenyHosts
+Version     : 3.1.2
+Release     : 1
+Architecture: noarch
+Install Date: (not installed)
+Group       : Development/Libraries
+Size        : 299396
+License     : GPL v2
+Signature   : (none)
+Source RPM  : DenyHosts-3.1.2-1.src.rpm
+Build Date  : Fri 08 May 2020 10:38:09 AM EDT
+Build Host  : marketo.tmmlog.in
+Relocations : /usr 
+Vendor      : Jesse Smith <jessefrgsmith@yahoo.ca>
+URL         : http://denyhost.sourceforge.net
+Summary     : DenyHost is a utility to help sys admins thwart ssh hackers
+Description :
+DenyHosts is a python program that automatically blocks ssh attacks by adding entries to /etc/hosts.deny. DenyHosts will also inform administrators about offending hosts, attacked users and suspicious logins. Originally written by Phil Schwartz.
+
